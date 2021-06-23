@@ -259,6 +259,10 @@ html {
     right: 22px;
 }
 
+.sweets-card .favorite:hover {
+    cursor: pointer;
+}
+
 .sweets-card img {
     display: block;
 }
